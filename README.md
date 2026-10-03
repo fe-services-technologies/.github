@@ -115,13 +115,21 @@ Our projects are built around practical problems, digital transformation and rea
 
 ### 🔵 ORGANIZATION ACTIVITY
 
-<img src="https://raw.githubusercontent.com/fe-services-technologies/.github/workflow/activity-graph.yml" width="95%" alt="FE Services Technologies Activity Graph"/>
+<img
+  src="https://raw.githubusercontent.com/fe-services-technologies/.github/main/activity-graph.svg"
+  width="95%"
+  alt="FE Services Technologies Activity Graph"
+/>
 
 <br><br>
 
 ### ⚫ CONTRIBUTORS
 
-<img src="https://raw.githubusercontent.com/fe-services-technologies/.github/workflow/contributors.yml" width="95%" alt="FE Services Technologies Contributors"/>
+<img
+  src="https://raw.githubusercontent.com/fe-services-technologies/.github/main/contributors.svg"
+  width="95%"
+  alt="FE Services Technologies Contributors"
+/>
 
 <br><br>
 
