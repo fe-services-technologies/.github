@@ -1,57 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
-  <rect width="1000" height="300" rx="12" fill="#05070A"/>
+name: Generate Activity Graph
 
-  <text x="40" y="48"
-        fill="#FFFFFF"
-        font-family="Arial, sans-serif"
-        font-size="22"
-        font-weight="700">
-    FE SERVICES TECHNOLOGIES
-  </text>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-  <text x="40" y="78"
-        fill="#0066FF"
-        font-family="Arial, sans-serif"
-        font-size="15">
-    Organization Activity
-  </text>
+permissions:
+  contents: write
 
-  <line x1="40" y1="230" x2="960" y2="230"
-        stroke="#1E2630"
-        stroke-width="2"/>
+jobs:
+  activity:
+    runs-on: ubuntu-latest
 
-  <line x1="40" y1="120" x2="40" y2="230"
-        stroke="#1E2630"
-        stroke-width="2"/>
+    steps:
+      - name: Generate activity graph
+        uses: Ashutosh007/graphy@main
+        with:
+          username: fe-services-technologies
 
-  <!-- Activity bars -->
-  <rect x="80" y="190" width="32" height="40" rx="4" fill="#0066FF"/>
-  <rect x="140" y="165" width="32" height="65" rx="4" fill="#0066FF"/>
-  <rect x="200" y="205" width="32" height="25" rx="4" fill="#0066FF"/>
-  <rect x="260" y="145" width="32" height="85" rx="4" fill="#0066FF"/>
-  <rect x="320" y="175" width="32" height="55" rx="4" fill="#0066FF"/>
-  <rect x="380" y="130" width="32" height="100" rx="4" fill="#0066FF"/>
-  <rect x="440" y="155" width="32" height="75" rx="4" fill="#0066FF"/>
-  <rect x="500" y="115" width="32" height="115" rx="4" fill="#0066FF"/>
-  <rect x="560" y="175" width="32" height="55" rx="4" fill="#0066FF"/>
-  <rect x="620" y="145" width="32" height="85" rx="4" fill="#0066FF"/>
-  <rect x="680" y="185" width="32" height="45" rx="4" fill="#0066FF"/>
-  <rect x="740" y="125" width="32" height="105" rx="4" fill="#0066FF"/>
-  <rect x="800" y="160" width="32" height="70" rx="4" fill="#0066FF"/>
-  <rect x="860" y="105" width="32" height="125" rx="4" fill="#0066FF"/>
-
-  <text x="40" y="265"
-        fill="#7D8792"
-        font-family="Arial, sans-serif"
-        font-size="12">
-    Activity over time
-  </text>
-
-  <text x="960" y="265"
-        text-anchor="end"
-        fill="#7D8792"
-        font-family="Arial, sans-serif"
-        font-size="12">
-    GitHub
-  </text>
-</svg>
+      - name: Commit generated graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update activity graph"
+          add: "activity-graph.svg"
