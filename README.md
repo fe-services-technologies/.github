@@ -38,15 +38,15 @@ Our approach is simple:
 
 We develop digital solutions across different areas of technology:
 
-| Area | Focus |
-|---|---|
-| 🌐 **Web Development** | Modern and responsive web applications |
-| ⚙️ **Software Engineering** | Systems designed around real-world problems |
-| 🏢 **Management Systems** | Digital tools for organizations and businesses |
-| 🛒 **E-Commerce** | Online stores and digital commerce solutions |
-| 💬 **Communication Systems** | Real-time communication and interaction |
-| 📊 **Data & Management** | Systems for organizing and managing information |
-| 📱 **Digital Solutions** | Technology adapted to practical needs |
+| Area                         | Focus                                           |
+| ---------------------------- | ----------------------------------------------- |
+| 🌐 **Web Development**       | Modern and responsive web applications          |
+| ⚙️ **Software Engineering**  | Systems designed around real-world problems     |
+| 🏢 **Management Systems**    | Digital tools for organizations and businesses  |
+| 🛒 **E-Commerce**            | Online stores and digital commerce solutions    |
+| 💬 **Communication Systems** | Real-time communication and interaction         |
+| 📊 **Data & Management**     | Systems for organizing and managing information |
+| 📱 **Digital Solutions**     | Technology adapted to practical needs           |
 
 ---
 
@@ -54,27 +54,27 @@ We develop digital solutions across different areas of technology:
 
 ## 🔵 Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-05070A?style=for-the-badge&logo=html5&logoColor=FF5722)
-![CSS3](https://img.shields.io/badge/CSS3-05070A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-05070A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-05070A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-05070A?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-05070A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05070A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05070A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![HTML5](https://img.shields.io/badge/HTML5-05070A?style=for-the-badge\&logo=html5\&logoColor=FF5722)
+![CSS3](https://img.shields.io/badge/CSS3-05070A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-05070A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-05070A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-05070A?style=for-the-badge\&logo=angular\&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-05070A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05070A?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05070A?style=for-the-badge\&logo=bootstrap\&logoColor=7952B3)
 
 ---
 
 ## ⚫ Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-05070A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
-![Express](https://img.shields.io/badge/Express-05070A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![.NET](https://img.shields.io/badge/.NET-05070A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-05070A?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05070A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-05070A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-05070A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Supabase](https://img.shields.io/badge/Supabase-05070A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Node.js](https://img.shields.io/badge/Node.js-05070A?style=for-the-badge\&logo=nodedotjs\&logoColor=3C873A)
+![Express](https://img.shields.io/badge/Express-05070A?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![.NET](https://img.shields.io/badge/.NET-05070A?style=for-the-badge\&logo=dotnet\&logoColor=512BD4)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-05070A?style=for-the-badge\&logo=dotnet\&logoColor=512BD4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05070A?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-05070A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-05070A?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-05070A?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
 
 ---
 
@@ -82,12 +82,12 @@ We develop digital solutions across different areas of technology:
 
 We use modern tools throughout our development workflow.
 
-![VS Code](https://img.shields.io/badge/VS%20Code-05070A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05070A?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![Canva](https://img.shields.io/badge/Canva-05070A?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![Git](https://img.shields.io/badge/Git-05070A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-05070A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-05070A?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05070A?style=for-the-badge\&logo=visualstudio\&logoColor=5C2D91)
+![Canva](https://img.shields.io/badge/Canva-05070A?style=for-the-badge\&logo=canva\&logoColor=00C4CC)
+![Git](https://img.shields.io/badge/Git-05070A?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-05070A?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-05070A?style=for-the-badge\&logo=vite\&logoColor=646CFF)
 
 ---
 
@@ -97,15 +97,87 @@ Our projects are built around practical problems, digital transformation and rea
 
 ### 🔵 Projects
 
-| Project | Description | Access |
-|:---:|:---|:---:|
-| 🛒 **NewLys** | E-Commerce & Digital Commerce | [View Project →](LINK) |
-| 🏪 **Shoprite** | Digital Solution | [View Project →](LINK) |
+|        Project        | Description                      |         Access         |
+| :-------------------: | :------------------------------- | :--------------------: |
+|     🛒 **NewLys**     | E-Commerce & Digital Commerce    | [View Project →](LINK) |
+|    🏪 **Shoprite**    | Digital Solution                 | [View Project →](LINK) |
 | 🏢 **FEST CondoSync** | Smart Condominium & Gate Control | [View Project →](LINK) |
-| 💬 **BatePapo** | Real-Time Communication System | [View Project →](LINK) |
-| ⚙️ **SGC** | Management System | [View Project →](LINK) |
-| 🎓 **SSNE** | Educational Management System | [View Project →](LINK) |
-| 🏛️ **SISALE** | Digital Management System | [View Project →](LINK) |
+|    💬 **BatePapo**    | Real-Time Communication System   | [View Project →](LINK) |
+|       ⚙️ **SGC**      | Management System                | [View Project →](LINK) |
+|      🎓 **SSNE**      | Educational Management System    | [View Project →](LINK) |
+|     🏛️ **SISALE**    | Digital Management System        | [View Project →](LINK) |
+
+---
+
+# 📊 ACTIVITY & PERFORMANCE
+
+<div align="center">
+
+### 🔵 ORGANIZATION ACTIVITY
+
+<img src="https://raw.githubusercontent.com/fe-services-technologies/.github/output/activity-graph.svg" width="95%" alt="FE Services Technologies Activity Graph"/>
+
+<br><br>
+
+### ⚫ CONTRIBUTORS
+
+<img src="https://raw.githubusercontent.com/fe-services-technologies/.github/output/contributors.svg" width="95%" alt="FE Services Technologies Contributors"/>
+
+<br><br>
+
+### 🔵 DEVELOPMENT OVERVIEW
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**PROJECTS**
+
+<br>
+
+🚀 **7+**
+
+<br>
+
+Active & developing
+
+</td>
+
+<td align="center" width="33%">
+
+**TECHNOLOGIES**
+
+<br>
+
+💻 **15+**
+
+<br>
+
+Across our stack
+
+</td>
+
+<td align="center" width="33%">
+
+**DIGITAL SOLUTIONS**
+
+<br>
+
+⚙️ **Multiple**
+
+<br>
+
+Real-world applications
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **Our activity reflects continuous development, collaboration and improvement across our projects.**
+
+</div>
 
 ---
 
@@ -172,6 +244,7 @@ At **FE Services Technologies**, we are constantly exploring new technologies, d
 # 🔵 BUILD. INNOVATE. EVOLVE. ⚫
 
 ### We don't just write software.
+
 ### We build solutions.
 
 <br>
