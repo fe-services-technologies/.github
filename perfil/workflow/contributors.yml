@@ -1,0 +1,30 @@
+name: Generate Contributors Graph
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contributors graph
+        uses: github-readme-activity-graph/github-readme-activity-graph@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: fe-services-technologies
+          output: contributors.svg
+
+      - name: Commit generated graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update contributors graph"
+          add: "contributors.svg"
